@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @qedihakunamatata
+- 👋 Hi, I’m @yfmchoi825
 - 👀 I’m interested in game programming, currently developing Machine Learning Skills 
 - 🌱 I’m currently learning C++ and Python mainly
 - 📫 reach me at yfmchoi8125@gmail.com
